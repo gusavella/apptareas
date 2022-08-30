@@ -4,7 +4,7 @@ app de tareas en javascript
 
 ## Realizado en el curso de javascript de **Digital House**
 
-Se crea un objeto literal en el cual  se escriben las dferentes tareas a realizar
+Se crea un objeto literal en el cual  se escriben las dferentes tareas a realizar y con base a los siguientes comandos se pueden hacer las difernetes acciones
 
 ### Lista  las tareas
 
