@@ -1,6 +1,6 @@
 let fs = require('fs');
 let funcionesDeTareas={
-        archivo : './app-tareas/tareas.json',
+        archivo : './tareas.json',
     leerArchivo : function(){
                   let arrayTareas=fs.readFileSync(this.archivo,'utf-8');
                   return JSON.parse(arrayTareas);
