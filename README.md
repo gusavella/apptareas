@@ -12,8 +12,8 @@ Para listrar las tareas se hace conb este comando **node app.js listar**
 
 ### Crea nueva tarea 
 
-Para crear una nueva tarea se realiza con este comando ** node app.js crear 'nueva tarea'** 
+Para crear una nueva tarea se realiza con este comando **node app.js crear 'nueva Tarea'** 
 
 ### Filtrar tarea 
 
-Para filtrar una tarea segun su estado se realiza con este comando ** node app.js filtrar 'estado'** 
+Para filtrar una tarea segun su estado se realiza con este comando **node app.js filtrar 'estado'** 
