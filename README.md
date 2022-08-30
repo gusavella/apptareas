@@ -2,4 +2,4 @@
 app de tareas en javascript
 
 
-##Realizado en el curso de javascript de Digital House
+-Realizado en el curso de javascript de Digital House
